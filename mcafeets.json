@@ -45,8 +45,6 @@
                         "url",
                         "domain"
                     ],
-                    "value_list": [],
-                    "default": "",
                     "order": 0
                 }
             },
